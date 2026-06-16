@@ -9,9 +9,9 @@
   --card-hover: #e8e8eb;
   --card-highlight: rgba(0, 0, 0, 0.04);
   --muted: #71717a;
-  --text-secondary: #52525b;
+  --text-secondary: #dd9023;
   --text-tertiary: #a1a1aa;
-  --dot-color: rgba(0, 0, 0, 0.08);
+  --dot-color: rgba(49, 33, 220, 0.08);
   --fade-mid: rgb(0 0 0 / 0.08);
   --fade-strong: rgb(0 0 0 / 0.18);
 }
